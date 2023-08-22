@@ -19,7 +19,7 @@
     <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="path_to_sql_server_logo.svg" alt="sqlserver" width="40" height="40"/>
+    <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="sqlserver" width="40" height="40"/>
   </a>
 
 </p>
