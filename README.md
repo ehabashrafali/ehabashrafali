@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ehab Ashraf</h1>
 <h3 align="center">A passionate fullstack Software Engineer</h3>
 
-- 🌱 I’m currently learning **BackEnd Development Using .NET**
-
 - 👨‍💻 All of my projects are available at [https://github.com/ehabashrafali](https://github.com/ehabashrafali)
 
 - 📫 How to reach me **ehabashrafali88@gmail.com**
